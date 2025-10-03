@@ -1,0 +1,101 @@
+TransactionID,CustomerID,CustomerAge,Gender,ProductID,ProductName,ProductCategory,SubCategory,Brand,Quantity,Amount,Discount,PaymentType,StoreID,StoreLocation,StoreRegion,TransactionDate,ReturnStatus,DeviceUsed,CustomerLoyaltyLevel
+TXN10000,C1000,null,Male,P600,Pepsi Decor,Home,Decor,Pepsi,4,11250.1,1345.35,CARD,S600,Delhi,South ,2024-05-27T10:47:12,Returned, web ,SILVER
+TXN10001,C1001,54,Female,P601,Nestle Beverages,Grocery,Beverages,Nestle,3,11027.11,1265.86,CARD,S601,Kolkata,WEST,2024-05-28T09:45:28,Returned, web ,SILVER
+TXN10002,C1002,null,Male,P602,Arrow Decor,Home,Decor,Arrow,2,9357.65,1151.68,UPI ,S602,Bangalore,WEST,2024-05-15T18:25:23,Not Returned,WEB,PLATINUM
+TXN10003,C1003,null,Male,P603,Nestle Snacks,Grocery,Snacks,Nestle,5,9196.41,1564.33,UPI,S603,Mumbai,SOUTH,2024-05-15T22:59:38,Not Returned,POS,GOLD
+TXN10004,C1004,48,Male,P604,Sony Beverages,Grocery,Beverages,Sony,2,4678.03,616.15,CASH,S604,Bangalore,SOUTH,2024-05-20T23:24:07,Returned, web ,SILVER
+TXN10005,C1005,null,Female,P605,Nestle Snacks,Grocery,Snacks,Nestle,5,13205.89,1046.17,  cash ,S605,Jaipur,WEST,2024-05-04T21:57:54,Not Returned, web ,BRONZE
+TXN10006,C1006,59,Female,P606,Pepsi Furniture,Home,Furniture,Pepsi,1,1743.33,180.65,NETBANKING,S606,Pune,NORTH,2024-05-05T18:37:16,Not Returned,POS,PLATINUM
+TXN10007,C1007,58,Female,P607,Nestle Snacks,Grocery,Snacks,Nestle,3,14780.16,780.2,NETBANKING,S607,Chennai,South ,2024-05-10T22:21:26,Not Returned,WEB,GOLD
+TXN10008,C1008,20,Female,P608,Levis Laptops,Electronics,Laptops,Levis,2,9258.7,447.49,CASH,S608,Bangalore,EAST,2024-05-31T10:18:23,Returned,MOBILE APP,BRONZE
+TXN10009,C1009,33,Female,P609,Nestle Shirts,Apparel,Shirts,Nestle,2,2016.88,92.76,CASH,S609,Chennai,NORTH,2024-05-08T20:46:40,Returned,MOBILE APP,PLATINUM
+TXN10010,C1010,null,Female,P610,Apple Snacks,Grocery,Snacks,Apple,2,374.63,70.72,  cash ,S610,Chennai,SOUTH,2024-05-02T07:14:20,Not Returned, web ,BRONZE
+TXN10011,C1011,20,Female,P611,Nestle Snacks,Grocery,Snacks,Nestle,3,500.31,17.92,  cash ,S611,Hyderabad,SOUTH,2024-05-09T20:07:39,Returned,POS,PLATINUM
+TXN10012,C1012,null,Male,P612,Apple Decor,Home,Decor,Apple,1,1647.17,134.52,UPI,S612,Pune,NORTH,2024-05-04T21:01:55,Not Returned,WEB,SILVER
+TXN10013,C1013,null,Male,P613,Arrow Snacks,Grocery,Snacks,Arrow,5,7857,1203.49,UPI,S613,Chennai,WEST,2024-05-05T19:27:50,Returned,POS,GOLD
+TXN10014,C1014,46,Female,P614,Pepsi Jeans,Apparel,Jeans,Pepsi,4,3746.29,369.08,CASH,S614,Bangalore,South ,2024-05-15T13:42:02,Returned,MOBILE APP,PLATINUM
+TXN10015,C1015,null,Female,P615,Samsung Jeans,Apparel,Jeans,Samsung,1,1046.77,51.51,CASH,S615,Jaipur,South ,2024-05-07T19:49:22,Not Returned, web ,GOLD
+TXN10016,C1016,null,Male,P616,Levis Mobiles,Electronics,Mobiles,Levis,4,7671.32,155.33,  cash ,S616,Chennai,NORTH,2024-05-08T11:37:37,Not Returned,WEB,SILVER
+TXN10017,C1017,null,Male,P617,Nestle Shoes,Apparel,Shoes,Nestle,2,1090.49,123.76,  cash ,S617,Chennai,EAST,2024-05-25T18:13:11,Returned, web ,GOLD
+TXN10018,C1018,null,Female,P618,Levis Beverages,Grocery,Beverages,Levis,4,1557.52,154.36,CASH,S618,Hyderabad,NORTH,2024-05-27T10:51:00,Not Returned,WEB,BRONZE
+TXN10019,C1019,41,Male,P619,Levis Jeans,Apparel,Jeans,Levis,2,8097.43,373.52,CASH,S619,Bangalore,SOUTH,2024-05-24T07:29:04,Not Returned,POS,BRONZE
+TXN10020,C1020,null,Female,P620,Samsung Decor,Home,Decor,Samsung,3,6269.74,1220.33,UPI,S620,Bangalore,South ,2024-05-17T05:14:51,Returned, web ,GOLD
+TXN10021,C1021,39,Male,P621,LG Decor,Home,Decor,LG,1,4715.48,334.63,CARD,S621,Kolkata,WEST,2024-05-27T22:11:43,Returned, web ,BRONZE
+TXN10022,C1022,null,Male,P622,Samsung Decor,Home,Decor,Samsung,2,7738.53,1203.15,NETBANKING,S622,Kolkata,South ,2024-05-26T00:24:44,Returned,MOBILE APP,PLATINUM
+TXN10023,C1023,31,Female,P623,Sony Snacks,Grocery,Snacks,Sony,1,3218.58,433.96,UPI,S623,Chennai,SOUTH,2024-05-09T14:12:53,Not Returned,WEB,SILVER
+TXN10024,C1024,null,Female,P624,Samsung Snacks,Grocery,Snacks,Samsung,1,2269.63,27.1,UPI,S624,Kolkata,South ,2024-05-09T08:04:25,Returned,MOBILE APP,BRONZE
+TXN10025,C1025,null,Female,P625,Samsung Beverages,Grocery,Beverages,Samsung,3,8422.69,748.48,NETBANKING,S625,Kolkata,EAST,2024-05-03T00:16:33,Not Returned, web ,SILVER
+TXN10026,C1026,null,Female,P626,Levis Laptops,Electronics,Laptops,Levis,5,15918.15,65.77,  cash ,S626,Mumbai,SOUTH,2024-05-12T11:36:32,Returned,MOBILE APP,SILVER
+TXN10027,C1027,null,Female,P627,LG Laptops,Electronics,Laptops,LG,1,3671.65,536.34,UPI,S627,Kolkata,SOUTH,2024-05-08T04:37:57,Not Returned,POS,PLATINUM
+TXN10028,C1028,58,Female,P628,Apple Jeans,Apparel,Jeans,Apple,5,24436.88,2075,CASH,S628,Pune,WEST,2024-05-19T03:10:56,Not Returned,WEB,BRONZE
+TXN10029,C1029,42,Female,P629,LG Shoes,Apparel,Shoes,LG,2,5618.53,751.42,UPI ,S629,Pune,SOUTH,2024-05-03T13:44:10,Not Returned,WEB,SILVER
+TXN10030,C1030,null,Female,P630,Levis Decor,Home,Decor,Levis,3,9371.06,1001.28,UPI,S630,Kolkata,South ,2024-05-08T15:59:20,Returned, web ,PLATINUM
+TXN10031,C1031,null,Female,P631,LG Audio,Electronics,Audio,LG,2,3659.04,363.33,NETBANKING,S631,Kolkata,NORTH,2024-05-26T06:50:40,Returned,MOBILE APP,BRONZE
+TXN10032,C1032,49,Male,P632,Arrow Snacks,Grocery,Snacks,Arrow,2,4516.4,123.11,UPI,S632,Bangalore,NORTH,2024-05-01T14:13:18,Not Returned, web ,SILVER
+TXN10033,C1033,44,Female,P633,LG Mobiles,Electronics,Mobiles,LG,2,9201.42,85.86,CASH,S633,Pune,SOUTH,2024-05-31T22:24:26,Not Returned,WEB,SILVER
+TXN10034,C1034,null,Male,P634,Pepsi Shoes,Apparel,Shoes,Pepsi,4,8192.22,1613.5,UPI,S634,Jaipur,WEST,2024-05-31T18:50:17,Returned,POS,SILVER
+TXN10035,C1035,null,Female,P635,Nestle Shoes,Apparel,Shoes,Nestle,2,3458.28,679.77,UPI,S635,Pune,WEST,2024-05-12T23:10:48,Not Returned,WEB,GOLD
+TXN10036,C1036,null,Female,P636,LG Decor,Home,Decor,LG,3,2270.36,129.56,  cash ,S636,Bangalore,SOUTH,2024-05-13T22:02:32,Returned,POS,SILVER
+TXN10037,C1037,31,Female,P637,Pepsi Furniture,Home,Furniture,Pepsi,1,518.05,18.17,UPI,S637,Chennai,NORTH,2024-05-22T12:06:38,Returned, web ,PLATINUM
+TXN10038,C1038,45,Female,P638,Arrow Mobiles,Electronics,Mobiles,Arrow,3,12608.79,1665.72,NETBANKING,S638,Kolkata,EAST,2024-05-02T19:33:16,Returned,MOBILE APP,GOLD
+TXN10039,C1039,null,Female,P639,Levis Shoes,Apparel,Shoes,Levis,2,3006.64,432.41,UPI ,S639,Jaipur,NORTH,2024-05-29T22:26:20,Not Returned,MOBILE APP,SILVER
+TXN10040,C1040,25,Male,P640,Nestle Beverages,Grocery,Beverages,Nestle,4,905.36,147.52,UPI,S640,Pune,South ,2024-05-27T11:24:33,Not Returned, web ,PLATINUM
+TXN10041,C1041,null,Male,P641,Sony Furniture,Home,Furniture,Sony,3,7613.03,181.97,CARD,S641,Hyderabad,NORTH,2024-05-01T18:21:00,Not Returned, web ,GOLD
+TXN10042,C1042,40,Male,P642,LG Shoes,Apparel,Shoes,LG,2,335.09,13.31,UPI ,S642,Jaipur,EAST,2024-05-10T15:38:21,Not Returned,MOBILE APP,GOLD
+TXN10043,C1043,39,Male,P643,Apple Beverages,Grocery,Beverages,Apple,3,3702.81,295.37,UPI,S643,Kolkata,WEST,2024-05-20T12:37:51,Returned,MOBILE APP,SILVER
+TXN10044,C1044,null,Male,P644,Apple Decor,Home,Decor,Apple,5,18619.84,83.58,  cash ,S644,Pune,EAST,2024-05-05T22:07:03,Not Returned, web ,GOLD
+TXN10045,C1045,49,Male,P645,Arrow Mobiles,Electronics,Mobiles,Arrow,2,9578.69,35.69,NETBANKING,S645,Hyderabad,WEST,2024-05-21T02:57:52,Returned, web ,SILVER
+TXN10046,C1046,null,Male,P646,Samsung Laptops,Electronics,Laptops,Samsung,1,3020.8,44.3,UPI,S646,Pune,EAST,2024-05-23T06:37:40,Not Returned,POS,PLATINUM
+TXN10047,C1047,29,Female,P647,Samsung Shoes,Apparel,Shoes,Samsung,1,1213.42,185.66,UPI ,S647,Jaipur,NORTH,2024-05-29T06:21:12,Returned,POS,BRONZE
+TXN10048,C1048,null,Female,P648,Nestle Jeans,Apparel,Jeans,Nestle,3,12310.43,1045.13,  cash ,S648,Bangalore,SOUTH,2024-05-27T10:14:50,Not Returned, web ,PLATINUM
+TXN10049,C1049,53,Male,P649,Nestle Shirts,Apparel,Shirts,Nestle,2,3906.34,590.21,UPI,S649,Mumbai,EAST,2024-05-16T21:08:53,Not Returned,WEB,GOLD
+TXN10050,C1050,null,Female,P650,Arrow Audio,Electronics,Audio,Arrow,1,3289.63,397.06,NETBANKING,S650,Delhi,South ,2024-05-11T21:32:52,Not Returned,MOBILE APP,BRONZE
+TXN10051,C1051,null,Male,P651,Sony Shirts,Apparel,Shirts,Sony,3,13704.22,1981.53,  cash ,S651,Delhi,South ,2024-05-08T22:16:30,Returned,MOBILE APP,SILVER
+TXN10052,C1052,null,Female,P652,Apple Laptops,Electronics,Laptops,Apple,2,4279.65,461.24,CASH,S652,Bangalore,WEST,2024-05-24T22:53:03,Not Returned,POS,GOLD
+TXN10053,C1053,42,Male,P653,Sony Mobiles,Electronics,Mobiles,Sony,1,2941.22,436.86,NETBANKING,S653,Delhi,NORTH,2024-05-26T11:21:01,Not Returned,MOBILE APP,BRONZE
+TXN10054,C1054,33,Female,P654,Nestle Snacks,Grocery,Snacks,Nestle,4,19861.44,3837.89,NETBANKING,S654,Bangalore,South ,2024-05-05T11:49:49,Not Returned, web ,PLATINUM
+TXN10055,C1055,40,Female,P655,Sony Laptops,Electronics,Laptops,Sony,1,514.9,0.27,CASH,S655,Delhi,NORTH,2024-05-15T16:21:43,Not Returned,MOBILE APP,BRONZE
+TXN10056,C1056,52,Male,P656,LG Beverages,Grocery,Beverages,LG,4,13321.56,2459.18,CARD,S656,Delhi,NORTH,2024-05-28T09:30:58,Returned,WEB,BRONZE
+TXN10057,C1057,54,Female,P657,Pepsi Beverages,Grocery,Beverages,Pepsi,1,4545.09,247.38,UPI,S657,Hyderabad,EAST,2024-05-20T23:00:32,Returned,WEB,BRONZE
+TXN10058,C1058,41,Female,P658,LG Snacks,Grocery,Snacks,LG,1,1858.77,354.15,  cash ,S658,Mumbai,NORTH,2024-05-16T23:14:39,Returned, web ,GOLD
+TXN10059,C1059,34,Female,P659,Sony Shoes,Apparel,Shoes,Sony,1,3255.45,181.48,CASH,S659,Jaipur,WEST,2024-05-15T15:02:00,Not Returned, web ,GOLD
+TXN10060,C1060,52,Female,P660,Levis Furniture,Home,Furniture,Levis,5,14506.82,1955.63,UPI,S660,Delhi,NORTH,2024-05-28T00:10:00,Returned,POS,PLATINUM
+TXN10061,C1061,36,Male,P661,Samsung Laptops,Electronics,Laptops,Samsung,5,20353.32,3029.45,NETBANKING,S661,Delhi,WEST,2024-05-26T14:13:17,Returned,WEB,SILVER
+TXN10062,C1062,null,Female,P662,Apple Audio,Electronics,Audio,Apple,1,4033.73,724.88,CASH,S662,Bangalore,NORTH,2024-05-26T05:15:21,Returned,WEB,GOLD
+TXN10063,C1063,50,Female,P663,Nestle Furniture,Home,Furniture,Nestle,2,5366.72,654.41,CARD,S663,Jaipur,SOUTH,2024-05-05T17:23:16,Not Returned,MOBILE APP,BRONZE
+TXN10064,C1064,31,Male,P664,Nestle Shirts,Apparel,Shirts,Nestle,3,9236.8,750.01,UPI,S664,Chennai,SOUTH,2024-05-17T13:42:16,Not Returned, web ,BRONZE
+TXN10065,C1065,null,Male,P665,Pepsi Shirts,Apparel,Shirts,Pepsi,4,782.92,75.68,CARD,S665,Delhi,EAST,2024-05-24T02:51:28,Returned,WEB,PLATINUM
+TXN10066,C1066,30,Male,P666,Sony Snacks,Grocery,Snacks,Sony,1,3826.89,170.27,UPI ,S666,Chennai,SOUTH,2024-05-24T13:31:39,Returned,WEB,GOLD
+TXN10067,C1067,59,Female,P667,Nestle Snacks,Grocery,Snacks,Nestle,5,12227.8,1064.74,CASH,S667,Jaipur,NORTH,2024-05-13T05:32:34,Not Returned,WEB,GOLD
+TXN10068,C1068,32,Male,P668,Nestle Furniture,Home,Furniture,Nestle,4,8808.65,453.84,NETBANKING,S668,Mumbai,SOUTH,2024-05-06T03:46:31,Not Returned,POS,GOLD
+TXN10069,C1069,null,Female,P669,Nestle Shoes,Apparel,Shoes,Nestle,2,9504.52,984.53,NETBANKING,S669,Kolkata,EAST,2024-05-07T20:22:27,Returned, web ,SILVER
+TXN10070,C1070,42,Female,P670,Arrow Mobiles,Electronics,Mobiles,Arrow,3,5410.62,146.16,CARD,S670,Kolkata,SOUTH,2024-05-06T16:49:01,Returned,POS,GOLD
+TXN10071,C1071,23,Male,P671,Nestle Laptops,Electronics,Laptops,Nestle,4,15214.25,181.32,CARD,S671,Kolkata,WEST,2024-05-15T04:12:24,Not Returned,MOBILE APP,PLATINUM
+TXN10072,C1072,null,Male,P672,Apple Decor,Home,Decor,Apple,4,15599.27,833.4,UPI ,S672,Chennai,South ,2024-05-05T19:14:07,Not Returned,MOBILE APP,PLATINUM
+TXN10073,C1073,null,Female,P673,Sony Snacks,Grocery,Snacks,Sony,4,13844.52,1699,  cash ,S673,Kolkata,SOUTH,2024-05-31T06:42:21,Not Returned,POS,BRONZE
+TXN10074,C1074,57,Male,P674,Nestle Furniture,Home,Furniture,Nestle,4,5038.71,295.28,  cash ,S674,Pune,WEST,2024-05-01T00:00:17,Not Returned,WEB,SILVER
+TXN10075,C1075,53,Female,P675,Nestle Shirts,Apparel,Shirts,Nestle,1,410.09,49.52,CARD,S675,Bangalore,WEST,2024-05-14T08:03:36,Not Returned,WEB,PLATINUM
+TXN10076,C1076,51,Male,P676,Apple Beverages,Grocery,Beverages,Apple,5,19467.07,2731.13,CARD,S676,Chennai,SOUTH,2024-05-06T08:49:28,Returned,WEB,BRONZE
+TXN10077,C1077,44,Female,P677,Pepsi Decor,Home,Decor,Pepsi,3,1930.93,196.39,CASH,S677,Mumbai,NORTH,2024-05-22T17:34:30,Returned, web ,BRONZE
+TXN10078,C1078,29,Male,P678,Nestle Furniture,Home,Furniture,Nestle,3,3217.24,575.1,CARD,S678,Hyderabad,NORTH,2024-05-26T10:22:08,Returned,WEB,BRONZE
+TXN10079,C1079,null,Female,P679,Arrow Jeans,Apparel,Jeans,Arrow,2,6732.22,649.19,UPI ,S679,Mumbai,South ,2024-05-06T21:19:45,Not Returned,MOBILE APP,BRONZE
+TXN10080,C1080,39,Male,P680,Pepsi Audio,Electronics,Audio,Pepsi,4,15101.4,821.59,  cash ,S680,Pune,NORTH,2024-05-01T11:49:08,Returned,POS,GOLD
+TXN10081,C1081,59,Female,P681,Arrow Snacks,Grocery,Snacks,Arrow,4,11203.67,1466.91,UPI ,S681,Delhi,NORTH,2024-05-09T18:34:13,Not Returned, web ,GOLD
+TXN10082,C1082,57,Female,P682,LG Audio,Electronics,Audio,LG,1,1457.07,47.04,UPI ,S682,Pune,South ,2024-05-20T16:53:35,Not Returned,WEB,PLATINUM
+TXN10083,C1083,null,Male,P683,Samsung Laptops,Electronics,Laptops,Samsung,3,6447.6,784.42,UPI ,S683,Mumbai,SOUTH,2024-05-23T10:41:56,Returned,POS,PLATINUM
+TXN10084,C1084,59,Male,P684,Apple Furniture,Home,Furniture,Apple,3,4679.83,869.51,NETBANKING,S684,Delhi,South ,2024-05-26T07:27:59,Returned,MOBILE APP,GOLD
+TXN10085,C1085,21,Female,P685,Apple Laptops,Electronics,Laptops,Apple,2,4171.8,531.53,  cash ,S685,Bangalore,WEST,2024-05-01T17:39:36,Not Returned,WEB,PLATINUM
+TXN10086,C1086,32,Female,P686,Nestle Decor,Home,Decor,Nestle,2,8002.96,684.84,UPI,S686,Jaipur,SOUTH,2024-05-13T17:49:47,Returned, web ,SILVER
+TXN10087,C1087,null,Female,P687,Pepsi Furniture,Home,Furniture,Pepsi,4,18596.16,1627.9,NETBANKING,S687,Pune,EAST,2024-05-03T19:48:58,Not Returned,MOBILE APP,GOLD
+TXN10088,C1088,36,Female,P688,Levis Laptops,Electronics,Laptops,Levis,4,5470.21,514.57,NETBANKING,S688,Delhi,SOUTH,2024-05-11T20:40:30,Not Returned,MOBILE APP,GOLD
+TXN10089,C1089,null,Male,P689,Samsung Snacks,Grocery,Snacks,Samsung,1,3700.13,277.29,CARD,S689,Chennai,NORTH,2024-05-18T00:22:30,Not Returned,WEB,GOLD
+TXN10090,C1090,null,Male,P690,Nestle Mobiles,Electronics,Mobiles,Nestle,1,2327.36,46.14,NETBANKING,S690,Mumbai,South ,2024-05-14T05:30:16,Not Returned,WEB,GOLD
+TXN10091,C1091,null,Female,P691,Pepsi Snacks,Grocery,Snacks,Pepsi,5,4290.11,169.44,UPI ,S691,Pune,South ,2024-05-01T15:45:46,Returned,WEB,PLATINUM
+TXN10092,C1092,null,Male,P692,Pepsi Decor,Home,Decor,Pepsi,1,1375.33,46.08,  cash ,S692,Delhi,WEST,2024-05-25T19:16:12,Returned, web ,GOLD
+TXN10093,C1093,33,Male,P693,Samsung Audio,Electronics,Audio,Samsung,3,9526.59,1603.06,NETBANKING,S693,Kolkata,WEST,2024-05-12T16:11:24,Not Returned, web ,BRONZE
+TXN10094,C1094,null,Female,P694,Pepsi Shoes,Apparel,Shoes,Pepsi,4,13352.57,2181.4,  cash ,S694,Delhi,EAST,2024-05-15T23:01:09,Not Returned,POS,BRONZE
+TXN10095,C1095,29,Female,P695,Levis Mobiles,Electronics,Mobiles,Levis,4,1978.82,351.93,NETBANKING,S695,Jaipur,SOUTH,2024-05-13T11:11:21,Not Returned,WEB,SILVER
+TXN10096,C1096,53,Male,P696,Arrow Snacks,Grocery,Snacks,Arrow,1,3618.96,645.78,NETBANKING,S696,Hyderabad,SOUTH,2024-05-03T17:36:13,Returned,MOBILE APP,GOLD
+TXN10097,C1097,null,Male,P697,Pepsi Shoes,Apparel,Shoes,Pepsi,1,3136.09,553.3,UPI,S697,Chennai,NORTH,2024-05-26T14:45:36,Not Returned,WEB,BRONZE
+TXN10098,C1098,null,Female,P698,Samsung Laptops,Electronics,Laptops,Samsung,3,7235.22,1294.22,UPI ,S698,Bangalore,EAST,2024-05-19T17:51:45,Not Returned,WEB,SILVER
+TXN10099,C1099,null,Female,P699,LG Jeans,Apparel,Jeans,LG,1,4315.84,706.57,  cash ,S699,Jaipur,EAST,2024-05-28T07:15:00,Returned, web ,BRONZE
